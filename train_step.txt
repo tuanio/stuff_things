@@ -1,0 +1,5 @@
+1. bộ dữ liệu bao gồm 2 cột, cân nặng và chiều cao
+	=> yêu cầu là tạo ra một cột mới là cột bmi
+2. từ cột bmi, tạo một cột mới là cột `có thừa cân hay không` (bmi >= 25)
+3. từ tuổi với chiều cao, dự đoán cân nặng
+4. phân loại dữ liệu này, từ 2 cột kia, phân loại xem là nam hay nữ
